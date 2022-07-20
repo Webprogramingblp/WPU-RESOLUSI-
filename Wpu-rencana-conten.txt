@@ -3,9 +3,11 @@
   -javascript
    *ES6
    *framework javascript
-     ^Angular
-     ^React
+      ^vue
+      ^react
+  -struktur data dasar 
   -php framework
-     ^Laravel
+     ^laravel
   -interview
-  -vlogs
+  -vlog
+  -phyton
